@@ -20,7 +20,7 @@
         "laravel-mix": "^4.1.4",
         "leaflet": "^1.6.0",
         "leaflet.pm": "^2.2.0",
-        "lodash": "^4.17.15",
+        "lodash": "^4.17.21",
         "material-icons": "^0.3.0",
         "popper.js": "^1.12",
         "resolve-url-loader": "^2.3.1",
